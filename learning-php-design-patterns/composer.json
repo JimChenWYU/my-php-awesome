@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/learning-php-design-patterns",
+    "description": "learning php design patterns demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JimChenWYU",
+            "email": "18219111672@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JimChen\\Patterns\\": "./"
+        }
+    }
+}
