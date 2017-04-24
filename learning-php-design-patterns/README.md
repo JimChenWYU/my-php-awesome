@@ -14,3 +14,4 @@
 + 结构型
   - [适配器](https://github.com/JimChenWYU/my-php-awesome/blob/master/learning-php-design-patterns/Adapter/)
   - [装饰器](https://github.com/JimChenWYU/my-php-awesome/blob/master/learning-php-design-patterns/Decorator/)
+  - [包装器](https://github.com/JimChenWYU/my-php-awesome/blob/master/learning-php-design-patterns/Wrapper/)
