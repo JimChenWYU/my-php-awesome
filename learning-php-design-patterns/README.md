@@ -18,3 +18,4 @@
   
 + 行为型
   - [模板方法](https://github.com/JimChenWYU/my-php-awesome/blob/master/learning-php-design-patterns/TemplateMethod/)
+  - [状态](https://github.com/JimChenWYU/my-php-awesome/blob/master/learning-php-design-patterns/State/)
