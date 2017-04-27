@@ -12,6 +12,11 @@
     "autoload": {
         "psr-4": {
             "JimChen\\Patterns\\": "./"
-        }
+        },
+        "files": [
+            "./Tool/Dotenv.php",
+            "./Tool/helpers.php",
+            "./Tool/Str.php"
+        ]
     }
 }
